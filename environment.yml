@@ -1,0 +1,10 @@
+name: music-audio-analysis-env
+dependencies:
+  - pip
+  - pip:
+      - python==3.13.*
+      - numpy
+      - librosa
+      - mido
+      - soundfile
+      - pydub
