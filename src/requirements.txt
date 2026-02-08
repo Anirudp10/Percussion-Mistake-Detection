@@ -3,3 +3,17 @@ librosa
 mido
 soundfile
 pydub
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+aubio>=0.4.9
+
+# MIDI Processing
+mido>=1.2.10
+
+# Numerical Computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Optional: For visualization (if needed later)
+matplotlib>=3.7.0
